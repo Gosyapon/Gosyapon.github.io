@@ -1,0 +1,5 @@
+.mobile{
+    min-height: 864px;
+    padding: 48px 0 79px 0;
+    background: url('../img/bg/bg_mobile.jpg') center center/cover no-repeat;
+}
